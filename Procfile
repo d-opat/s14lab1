@@ -1,1 +1,2 @@
-web: Gunicorn app:app
+web:Gunicorn 
+app:app
